@@ -1,0 +1,4 @@
+main: es.goodmem.staffannouncer.AnnouncerPlugin
+name: StaffAnnouncer
+author: inksquid_
+version: 1.0
